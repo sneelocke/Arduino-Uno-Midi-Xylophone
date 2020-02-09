@@ -19,7 +19,8 @@ The instrument uses two power supplies, one USB cable for the Arduino power, and
 battery pack for the launchers.  A second USB cable used for the incoming MIDI stream seems
 a bit much.  Ideally a single USB cable providing Arduino power and a MIDI serial stream would
 simplify the project.  Or two battery power supplies inside the instrument would make setup
-easier.   I have run the instrument on a USB wall charger for the Arduino, and a G2GO connector
+easier.   I have run the instrument on a USB wall charger for Arduino power, plus a OTG connector
 from my Samsung S3 cell phone.  I use the Synthesia App on the phone to make the MIDI stream
-to feed the instrument.  Works well and is more portable than a PC to drive it.
+to feed the instrument.  Works well and is more portable than a PC, but does pause for a few 
+milliseconds now and then when the cell phone is very busy.
 
