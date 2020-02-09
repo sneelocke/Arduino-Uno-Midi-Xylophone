@@ -39,13 +39,6 @@ My code is compiled with Arduino IDE V 1.0.5
 I use the MIDI library described above.
 I use the Adafruit MCP23017 I2C I/O expander chip library.
 
-
-xylo1 - test hardware with scales
-
-xylo2 - rx midi and send it to the 14 usable keys.
-
-xylo3 - rx midi and send it to 30 usable keys through IO expander chip.
-
 parts come from...
 
 digikey.com
